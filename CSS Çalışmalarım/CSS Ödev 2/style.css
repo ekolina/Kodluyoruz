@@ -1,0 +1,48 @@
+
+
+.SearchBar {
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 70px;
+  
+}
+
+.search {
+  width: 317px;
+  height: 21px;
+  margin: auto;
+}
+
+.bluebox1 {
+  background-color: rgb(126, 229, 218);
+  float: left;
+  margin-top: 3px;
+  margin-right: 3px;
+  width: 37%;
+  height: 60px;
+  padding: 10px;
+}
+
+.bluebox2 {
+  background-color: #70CCC2;
+  float: left;
+  margin-top: 3px;
+  margin-right: 3px;
+  height: 80px;
+  width: 20%;
+}
+
+.bluebox3 {
+  background-color: #62B3AA;
+  float: left;
+  margin-top: 3px;
+  margin-right: 3px;
+  height: 80px;
+  width: 40.71%;
+}
+
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
